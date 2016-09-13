@@ -2,11 +2,11 @@ html{
 
 }
 body{
-	border: 5px solid blue;
+	border: 5px solid green;
 	padding: 10px;
 	font-family: sans-serif;
 	text-align: justify;
-	color: blue;
+	color: green;
 }
 h1{
 	font-size: 24px;
