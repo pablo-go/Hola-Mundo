@@ -2,11 +2,11 @@ html{
 
 }
 body{
-	border: 5px solid #ccc;
+	border: 5px solid blue;
 	padding: 10px;
 	font-family: sans-serif;
 	text-align: justify;
-	color: #ccc;
+	color: blue;
 }
 h1{
 	font-size: 24px;
