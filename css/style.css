@@ -7,13 +7,15 @@ body{
 	font-family: sans-serif;
 	text-align: justify;
 	color: #666;
+	background-color:#A2A2A2;
 }
 h1{
 	font-size: 72px;
 	font-weight: bold;
 }
 p{
-	font-style:oblique;
+	font-style:normal;
 	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
-	font-size: 14px;
+	font-size: 22px;
+	border-color:#05E951;
 }
