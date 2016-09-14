@@ -2,17 +2,18 @@ html{
 
 }
 body{
-	border: 5px solid blue;
+	border: 5px solid black;
 	padding: 10px;
 	font-family: sans-serif;
 	text-align: justify;
-	color: blue;
+	color: #05E951;
 }
 h1{
 	font-size: 24px;
 	font-weight: bold;
 }
 p{
-	font-style: italic;
+	font-style:oblique;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
 	font-size: 14px;
 }
