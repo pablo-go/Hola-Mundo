@@ -2,14 +2,14 @@ html{
 
 }
 body{
-	border: 5px solid black;
+	border: 5px dashed #666;
 	padding: 10px;
 	font-family: sans-serif;
 	text-align: justify;
-	color: #05E951;
+	color: #666;
 }
 h1{
-	font-size: 24px;
+	font-size: 72px;
 	font-weight: bold;
 }
 p{
